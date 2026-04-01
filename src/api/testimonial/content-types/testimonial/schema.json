@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testimonials",
+  "info": {
+    "singularName": "testimonial",
+    "pluralName": "testimonials",
+    "displayName": "Testimonial"
+  },
+  "attributes": {
+    "name": { "type": "string", "required": true },
+    "designation": { "type": "string" },
+    "message": { "type": "text", "required": true },
+    "photo": { "type": "media", "multiple": false, "allowedTypes": ["images"] }
+  }
+}
