@@ -1,0 +1,28 @@
+env
+
+# Server
+HOST=0.0.0.0
+PORT=1337
+
+# Secrets
+APP_KEYS=vFglvFSXiNDM64TsdF0uMg==,sr5LwK1iMxj/Js/e10HRhg==,ljkr3XM5cVPBTiyZnSJuXQ==,QBuQeDavJ1UPl2Ihow39xg==
+API_TOKEN_SALT=tMHZolH7dFj0n52qDF9Naw==
+ADMIN_JWT_SECRET=TfaJ1mcm44g9WqpHwIK7Mw==
+TRANSFER_TOKEN_SALT=pKxb+wa5dasxiBW8GlokpA==
+ENCRYPTION_KEY=jqL18e/rr3QuMuYRvrn1aw==
+
+# Database
+DATABASE_CLIENT=postgres
+DATABASE_HOST=127.0.0.1
+DATABASE_PORT=5432
+DATABASE_NAME=strapiblog
+DATABASE_USERNAME=strapi
+DATABASE_PASSWORD=123
+DATABASE_SSL=false
+DATABASE_FILENAME=
+JWT_SECRET=j18wzvE31iz2qgjMJXa1Tg==
+
+
+# ⁠sarfraj@gmail.com
+# Sarfraj#2k26
+# https://github.com/sarfraj-dev11
